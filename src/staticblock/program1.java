@@ -1,6 +1,6 @@
 package staticblock;
 
-import com.sun.javafx.scene.EnteredExitedHandler;
+//import com.sun.javafx.scene.EnteredExitedHandler;
 
 public class program1 {
     static int RNo;
