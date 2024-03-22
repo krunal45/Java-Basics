@@ -7,7 +7,7 @@ public interface Example01 {
     public static void main(String args[]) {
 	
 	Example01 e5= ()->{
-		// TODO Auto-generated method stub
+
 		System.out.println("I can call,take photos,etc.,");
 	    };
 	
