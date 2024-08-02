@@ -23,7 +23,6 @@ public class Practice_25_07_24 {
             arraySorted = status[i] && status[++i];
         }
         return arraySorted;
-        //Need to debug value of arraySorted;
     }
 
     public static void main(String[] args) {
