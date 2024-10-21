@@ -13,8 +13,8 @@ public class Experiment1 {
 
         //------StringBuffer
         StringBuffer name1,name2;
-        name1 = new StringBuffer("test");
-        name2 = new StringBuffer("test");
+        name1 = new StringBuffer("getOrDefaultMapExample");
+        name2 = new StringBuffer("getOrDefaultMapExample");
         System.out.println("name1 == name2 ->"+name1.equals(name2));
     }
 }

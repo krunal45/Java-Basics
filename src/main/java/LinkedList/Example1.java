@@ -1,5 +1,5 @@
 /*
-Absolutely! Let's test your understanding of traversing a linked list in Java. Here's the question:
+Absolutely! Let's getOrDefaultMapExample your understanding of traversing a linked list in Java. Here's the question:
 
 We have a simple SinglyLinkedList class with a Node class representing each element.
 Each Node has data and a pointer to the next node. Write a function called `printList` that takes the head of the SinglyLinkedList
