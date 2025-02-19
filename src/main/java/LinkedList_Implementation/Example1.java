@@ -9,7 +9,7 @@ Each Node has data and a pointer to the next node. Write a function called `prin
 Make sure the loop terminates when it reaches the end of the list (i.e., the current node's next pointer is null).
 
  */
-package LinkedList;
+package LinkedList_Implementation;
 
 import java.util.Arrays;
 import java.util.LinkedList;

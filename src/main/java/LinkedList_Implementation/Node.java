@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList_Implementation;
 
 // In this code will do implementation of Node Logic
 public class Node {
