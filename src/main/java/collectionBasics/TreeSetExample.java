@@ -1,6 +1,7 @@
 package collectionBasics;
 
 import java.util.Iterator;
+import java.util.ListIterator;
 import java.util.TreeSet;
 
 public class TreeSetExample {
@@ -26,5 +27,11 @@ public class TreeSetExample {
         alphabets.add('a');
         alphabets.add('d');
         System.out.println(alphabets);
+//        Reversing set
+        System.out.println("Reverse Set");
+        Iterator<Character> revChars = alphabets.descendingIterator();
+        while (revChars.hasNext()){
+            System.out.print(revChars.next()+"\t");
+        }
     }
 }
