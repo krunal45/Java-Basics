@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.MultidimensionalArray;
 
 public class Multi_dimensional_Array_Example01 {
     

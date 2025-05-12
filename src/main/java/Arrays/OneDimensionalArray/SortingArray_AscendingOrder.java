@@ -1,7 +1,7 @@
 /**
  * 
  */
-package Arrays;
+package Arrays.OneDimensionalArray;
 
 /**
  * @author krunal

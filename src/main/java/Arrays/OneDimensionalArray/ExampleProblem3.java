@@ -2,7 +2,7 @@
 //You are given an array of integers called numbers. Write a Java method called findMaxMin that takes this array as input and returns an array containing two integers: the maximum and minimum values in the array, respectively.
 
 
-package Arrays;
+package Arrays.OneDimensionalArray;
 
 import java.util.Arrays;
 import java.util.Scanner;

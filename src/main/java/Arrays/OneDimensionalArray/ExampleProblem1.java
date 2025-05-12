@@ -23,7 +23,7 @@ def longest_consecutive_sequence(array):
   return longest_sequence
  */
 
-package Arrays;
+package Arrays.OneDimensionalArray;
 
 import java.util.HashSet;
 

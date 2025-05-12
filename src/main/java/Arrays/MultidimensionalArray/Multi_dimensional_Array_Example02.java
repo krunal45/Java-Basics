@@ -5,7 +5,7 @@ Write a Java method that takes a two-dimensional array of integers as input and 
 1 2
 3 4
  */
-package Arrays;
+package Arrays.MultidimensionalArray;
 
 import java.util.Arrays;
 import java.util.Scanner;

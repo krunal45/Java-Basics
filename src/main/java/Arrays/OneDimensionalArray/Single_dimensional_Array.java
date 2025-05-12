@@ -1,7 +1,7 @@
 
 // This is sample code to make understand single dimensional Array in java
 
-package Arrays;
+package Arrays.OneDimensionalArray;
 
 import java.util.Scanner;
 

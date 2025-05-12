@@ -1,5 +1,5 @@
 // Find 2 numbers in an array that add up to a given target using a hashmap for efficient look ups and return the indices of two numbers
-package Arrays;
+package Arrays.InterviewQuestions;
 
 import java.util.Arrays;
 import java.util.HashMap;

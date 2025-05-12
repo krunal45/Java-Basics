@@ -2,7 +2,7 @@
 Write a Java program to find the maximum element in an array.
 
  */
-package Arrays;
+package Arrays.OneDimensionalArray;
 
 import java.util.Arrays;
 

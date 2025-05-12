@@ -6,7 +6,7 @@ Write a Java method that takes in an integer array and returns true if the array
 
 Feel free to give it a try, and we can discuss your approach and how you would implement it!
  */
-package Arrays;
+package Arrays.OneDimensionalArray;
 
 import java.util.Arrays;
 

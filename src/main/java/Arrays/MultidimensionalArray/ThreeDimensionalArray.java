@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.MultidimensionalArray;
 
 import java.util.Arrays;
 

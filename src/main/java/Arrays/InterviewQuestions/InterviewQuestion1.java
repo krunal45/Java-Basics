@@ -12,7 +12,7 @@
 //* Try to write a solution with time complexity better than O(n²).
 //
 
-package Arrays;
+package Arrays.InterviewQuestions;
 
 import java.util.HashMap;
 import java.util.Map;

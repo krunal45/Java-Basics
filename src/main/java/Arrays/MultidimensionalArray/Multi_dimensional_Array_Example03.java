@@ -16,10 +16,9 @@ Here's the question:
 Think about how many subjects there are and how many students you want to store grades for.
 There are different ways to approach this, so focus on understanding how to use multidimensional arrays to organize data with rows and columns.
  */
-package Arrays;
+package Arrays.MultidimensionalArray;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class Multi_dimensional_Array_Example03 {
 

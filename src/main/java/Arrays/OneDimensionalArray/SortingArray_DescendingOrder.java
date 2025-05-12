@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.OneDimensionalArray;
 
 public class SortingArray_DescendingOrder {
 
