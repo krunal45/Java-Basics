@@ -17,20 +17,23 @@ public class Example1 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int i = 0,j = 0,result = 0;
-        try{
-            System.out.println("Please Enter 2 numbers");
-            i = input.nextInt();
-            j = input.nextInt();
-            result = i / j;
-            System.out.println(result);
-        }catch (InputMismatchException e){
-            System.out.println("Invalid Input!");
+        int i = 0, j = 0, result = 0;
+
+        while (true) {
+            try {
+                System.out.println("Please Enter 2 numbers");
+                i = input.nextInt();
+                j = input.nextInt();
+                result = i / j;
+                System.out.println(result);
+                break;
+            } catch (InputMismatchException e) {
+                System.out.println("Invalid Input! Please Enter Again!");
+                input.nextLine();
+            } catch (ArithmeticException e) {
+                System.out.println("Cannot divide a number by 0!");
+            }
         }
-        catch (ArithmeticException e){
-            System.out.println("Cannot divide a number by 0!");
-        }finally {
-            input.close();
-        }
+        input.close();
     }
 }
