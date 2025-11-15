@@ -1,4 +1,4 @@
-package main.arrayBasics;
+package java.arrayBasics;
 
 public class TwoDimensionalArray {
     public String[][] employeeList = new String[3][2];

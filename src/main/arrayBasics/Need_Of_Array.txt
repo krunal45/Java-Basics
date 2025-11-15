@@ -1,0 +1,2 @@
+- Let say we want to store age of multiple students in a class. Let say there are 5 students in class.
+So in order to store multiple values we have a data Type called as Array.

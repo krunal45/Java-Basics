@@ -1,4 +1,4 @@
-package main.arrayBasics;
+package java.arrayBasics;
 
 public class OneDimensionalArray {
     public String[] employees=new String[3];

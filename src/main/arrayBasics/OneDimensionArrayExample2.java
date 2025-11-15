@@ -23,7 +23,7 @@ Output: null
 
 Take 5 minutes to solve this!
 */
-package main.arrayBasics;
+package java.arrayBasics;
 
 import java.util.*;
 

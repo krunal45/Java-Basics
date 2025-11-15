@@ -1,4 +1,4 @@
-package main.arrayBasics;
+package arrayBasics;
 
 import java.util.Arrays;
 
@@ -32,7 +32,8 @@ public class ArraysClassExample {
         Arrays.fill(charsNotMatch, 'A');
         System.out.println(Arrays.toString(charsNotMatch));
 
-// ...existing code...
+//        version 2
+        Arrays.fill(charsMatch, 0, 2, 'A');
+        System.out.println(Arrays.toString(charsMatch));
     }
 }
-
